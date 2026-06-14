@@ -14,7 +14,9 @@ function Navbar() {
       <div className="container">
         <nav className="navbar">
           <div className="logo">
-            <img src={logoImg} href="#home" alt="Karan Logo" />
+            <a href="#home">
+              <img src={logoImg} alt="Karan Logo" />
+            </a>
           </div>
 
           {/* Hamburger */}
