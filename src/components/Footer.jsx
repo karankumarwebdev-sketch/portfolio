@@ -31,7 +31,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://github.com/your-profile"
+            href="https://github.com/karankumarwebdev-sketch"
             target="_blank"
             rel="noreferrer"
           >
