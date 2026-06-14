@@ -30,7 +30,7 @@ function Hero() {
               </a>
 
               <a
-                href="../public/Karan_Portfolio.pdf"
+                href="/Karan_Portfolio.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="secondary-btn"
